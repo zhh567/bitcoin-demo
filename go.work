@@ -1,0 +1,10 @@
+go 1.20
+
+use (
+	./v1-chain
+	./v2-pow
+	./v3-persistence
+	./v4-cli
+	./v5-transaction
+    ./v6-wallet
+)
